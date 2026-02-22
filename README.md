@@ -4,7 +4,7 @@ An end-to-end data analysis solution to help organizations measure and optimize 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── data/                   # Raw datasets created in MySQL Workbench
@@ -30,7 +30,7 @@ An end-to-end data analysis solution to help organizations measure and optimize 
 
 ---
 
-## 🛠️ Step 1: Data Creation & Ingestion
+## Step 1: Data Creation & Ingestion
 
 The project began by designing a relational database schema representing a retail supply chain.
 
@@ -39,7 +39,7 @@ The project began by designing a relational database schema representing a retai
 
 ---
 
-## 📊 Step 2: Business Logic & Data Transformation
+## Step 2: Business Logic & Data Transformation
 
 In the `EDAFiles/` phase, we moved beyond raw data to create high-level business entities.
 
@@ -48,7 +48,7 @@ In the `EDAFiles/` phase, we moved beyond raw data to create high-level business
 
 ---
 
-## 📈 Step 3: Statistical Analysis & Hypothesis Testing
+## Step 3: Statistical Analysis & Hypothesis Testing
 
 The `VPA/` phase involved deep-dive research to find actionable patterns.
 
@@ -58,7 +58,7 @@ The `VPA/` phase involved deep-dive research to find actionable patterns.
 
 ---
 
-## 🌐 Step 4: Interactive Web Dashboard
+## Step 4: Interactive Web Dashboard
 
 The final output is a responsive Business Intelligence Dashboard that allows stakeholders to explore the findings.
 
@@ -68,7 +68,7 @@ The final output is a responsive Business Intelligence Dashboard that allows sta
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -98,7 +98,7 @@ python EDAFiles/get_vendor_summary.py
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 - Uddipan Roy
 - Nikita Das
