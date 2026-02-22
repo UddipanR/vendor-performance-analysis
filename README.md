@@ -34,7 +34,7 @@ An end-to-end data analysis solution to help organizations measure and optimize 
 
 The project began by designing a relational database schema representing a retail supply chain.
 
-- **Database Design:** Created 6 core tables (Inventory, Purchases, Sales, Invoices) using MySQL Workbench.
+- **Database Design:** Created 6 core tables (Begin Inventory, End Inventory, Purchase Prices, Purchases, Sales, Vendor Invoice) using MySQL Workbench.
 - **Automated Pipeline:** Developed a Python script (`ingestion_db.py`) to automate the migration of raw CSVs into a local SQLite database (`inventory.db`), including automated logging for performance monitoring.
 
 ---
